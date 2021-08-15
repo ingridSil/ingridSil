@@ -1,4 +1,4 @@
-## Oiii! Eu sou me chamo Ingrid
+## Oiii! Eu me chamo Ingrid
 
  <div>
   <a href="https://github.com/ingridSil">
