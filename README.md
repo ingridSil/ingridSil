@@ -1,4 +1,3 @@
-## Oiii! Eu me chamo Ingrid
 
  <div>
   <a href="https://github.com/ingridSil">
